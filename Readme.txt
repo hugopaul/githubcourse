@@ -1,11 +1,4 @@
 
 #GitCourse
 
-asdasdasd
-
-Repositório para teste
-
-testeasdasdas
-
-
-asdasdasd
+teste
