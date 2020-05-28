@@ -1,14 +1,14 @@
-asdaslçdk#GitCourse
+#GitCourse
 
-asdasdasd
+Testando
 
 Repositório para teste
 
-testeasdasdas
+Testando Git
 
 
-asdasdasd
+Git teste
 
 
-Outro s cursos em : [willian justen cursos] (http://willianjusten.com.br)
+Testeee
 
